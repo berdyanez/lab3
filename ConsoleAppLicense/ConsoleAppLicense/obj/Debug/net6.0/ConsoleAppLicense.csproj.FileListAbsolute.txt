@@ -1,0 +1,15 @@
+C:\Users\bka20\source\LAB 3\ConsoleAppLicense\ConsoleAppLicense\bin\Debug\net6.0\ConsoleAppLicense.exe
+C:\Users\bka20\source\LAB 3\ConsoleAppLicense\ConsoleAppLicense\bin\Debug\net6.0\ConsoleAppLicense.deps.json
+C:\Users\bka20\source\LAB 3\ConsoleAppLicense\ConsoleAppLicense\bin\Debug\net6.0\ConsoleAppLicense.runtimeconfig.json
+C:\Users\bka20\source\LAB 3\ConsoleAppLicense\ConsoleAppLicense\bin\Debug\net6.0\ConsoleAppLicense.dll
+C:\Users\bka20\source\LAB 3\ConsoleAppLicense\ConsoleAppLicense\bin\Debug\net6.0\ref\ConsoleAppLicense.dll
+C:\Users\bka20\source\LAB 3\ConsoleAppLicense\ConsoleAppLicense\bin\Debug\net6.0\ConsoleAppLicense.pdb
+C:\Users\bka20\source\LAB 3\ConsoleAppLicense\ConsoleAppLicense\obj\Debug\net6.0\ConsoleAppLicense.csproj.AssemblyReference.cache
+C:\Users\bka20\source\LAB 3\ConsoleAppLicense\ConsoleAppLicense\obj\Debug\net6.0\ConsoleAppLicense.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bka20\source\LAB 3\ConsoleAppLicense\ConsoleAppLicense\obj\Debug\net6.0\ConsoleAppLicense.AssemblyInfoInputs.cache
+C:\Users\bka20\source\LAB 3\ConsoleAppLicense\ConsoleAppLicense\obj\Debug\net6.0\ConsoleAppLicense.AssemblyInfo.cs
+C:\Users\bka20\source\LAB 3\ConsoleAppLicense\ConsoleAppLicense\obj\Debug\net6.0\ConsoleAppLicense.csproj.CoreCompileInputs.cache
+C:\Users\bka20\source\LAB 3\ConsoleAppLicense\ConsoleAppLicense\obj\Debug\net6.0\ConsoleAppLicense.dll
+C:\Users\bka20\source\LAB 3\ConsoleAppLicense\ConsoleAppLicense\obj\Debug\net6.0\ref\ConsoleAppLicense.dll
+C:\Users\bka20\source\LAB 3\ConsoleAppLicense\ConsoleAppLicense\obj\Debug\net6.0\ConsoleAppLicense.pdb
+C:\Users\bka20\source\LAB 3\ConsoleAppLicense\ConsoleAppLicense\obj\Debug\net6.0\ConsoleAppLicense.genruntimeconfig.cache

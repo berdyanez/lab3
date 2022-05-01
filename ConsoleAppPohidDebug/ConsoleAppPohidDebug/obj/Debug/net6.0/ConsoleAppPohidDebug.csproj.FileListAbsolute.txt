@@ -1,0 +1,15 @@
+C:\Users\bka20\source\LAB 3\ConsoleAppPohidDebug\ConsoleAppPohidDebug\bin\Debug\net6.0\ConsoleAppPohidDebug.exe
+C:\Users\bka20\source\LAB 3\ConsoleAppPohidDebug\ConsoleAppPohidDebug\bin\Debug\net6.0\ConsoleAppPohidDebug.deps.json
+C:\Users\bka20\source\LAB 3\ConsoleAppPohidDebug\ConsoleAppPohidDebug\bin\Debug\net6.0\ConsoleAppPohidDebug.runtimeconfig.json
+C:\Users\bka20\source\LAB 3\ConsoleAppPohidDebug\ConsoleAppPohidDebug\bin\Debug\net6.0\ConsoleAppPohidDebug.dll
+C:\Users\bka20\source\LAB 3\ConsoleAppPohidDebug\ConsoleAppPohidDebug\bin\Debug\net6.0\ref\ConsoleAppPohidDebug.dll
+C:\Users\bka20\source\LAB 3\ConsoleAppPohidDebug\ConsoleAppPohidDebug\bin\Debug\net6.0\ConsoleAppPohidDebug.pdb
+C:\Users\bka20\source\LAB 3\ConsoleAppPohidDebug\ConsoleAppPohidDebug\obj\Debug\net6.0\ConsoleAppPohidDebug.csproj.AssemblyReference.cache
+C:\Users\bka20\source\LAB 3\ConsoleAppPohidDebug\ConsoleAppPohidDebug\obj\Debug\net6.0\ConsoleAppPohidDebug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bka20\source\LAB 3\ConsoleAppPohidDebug\ConsoleAppPohidDebug\obj\Debug\net6.0\ConsoleAppPohidDebug.AssemblyInfoInputs.cache
+C:\Users\bka20\source\LAB 3\ConsoleAppPohidDebug\ConsoleAppPohidDebug\obj\Debug\net6.0\ConsoleAppPohidDebug.AssemblyInfo.cs
+C:\Users\bka20\source\LAB 3\ConsoleAppPohidDebug\ConsoleAppPohidDebug\obj\Debug\net6.0\ConsoleAppPohidDebug.csproj.CoreCompileInputs.cache
+C:\Users\bka20\source\LAB 3\ConsoleAppPohidDebug\ConsoleAppPohidDebug\obj\Debug\net6.0\ConsoleAppPohidDebug.dll
+C:\Users\bka20\source\LAB 3\ConsoleAppPohidDebug\ConsoleAppPohidDebug\obj\Debug\net6.0\ref\ConsoleAppPohidDebug.dll
+C:\Users\bka20\source\LAB 3\ConsoleAppPohidDebug\ConsoleAppPohidDebug\obj\Debug\net6.0\ConsoleAppPohidDebug.pdb
+C:\Users\bka20\source\LAB 3\ConsoleAppPohidDebug\ConsoleAppPohidDebug\obj\Debug\net6.0\ConsoleAppPohidDebug.genruntimeconfig.cache
